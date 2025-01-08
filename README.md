@@ -1,5 +1,5 @@
-# blockchain_verified
+# blockchain_dafny
 
-Verified Blockchain written in dafny. 
+Blockchain written in dafny. 
 
 Project for Verification Driven Programming.
